@@ -1,4 +1,7 @@
-﻿
+---
+layout:post
+title: "Data Science Interviews"
+---
 # Data Science Interviews -- What to Know
 
 #### Keywords 
