@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "Data Science Interviews"
 date: 2020-05-19
 categories: 
