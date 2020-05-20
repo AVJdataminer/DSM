@@ -1,7 +1,10 @@
 ---
 layout:post
 title: "Data Science Interviews"
----
+date: 2020-05-19
+categories: 
+tags: [data science, data analytics]
+--- 
 # Data Science Interviews -- What to Know
 
 #### Keywords 
