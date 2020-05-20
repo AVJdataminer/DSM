@@ -1,3 +1,10 @@
+---
+layout: post
+title: "The Data Science Method (DSM)- Problem Identification"
+date: 2019-12-10
+categories:
+tags: [data science, data analytics]
+---
 # The Data Science Method — Problem Identification
 
 [](https://medium.com/@aiden.dataminer?source=post_page-----6ffcda1e5152----------------------)
@@ -91,5 +98,5 @@ To receive updates about DSM sign up  [here](https://www.breakthroughdatascience
 -   [AI](https://medium.com/tag/ai)
 -   [Springboard](https://medium.com/tag/springboard)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODI3OTYyNV19
+eyJoaXN0b3J5IjpbLTE3Njc3NDE3OTEsLTEwODI3OTYyNV19
 -->
