@@ -1,4 +1,10 @@
-﻿
+---
+layout: post
+title: "The Data Science Method (DSM)" 
+date: 2018-11-22
+categories: 
+tags: [data science, data analytics]
+---
 # The Data Science Method (DSM) — A framework on how to take your data science projects to the next level.
 
 [](https://medium.com/@aiden.dataminer?source=post_page-----91f9fd81e5d1----------------------)
