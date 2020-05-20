@@ -1,4 +1,4 @@
-
+﻿
 # Data Science Interviews -- What to Know
 
 #### Keywords 
@@ -160,6 +160,3 @@ Example questions for interviewers:
  - What is the relationship between the data science team and the rest of the company? How will I know if I am accomplishing what is expected of me?  
 
 Finally, no matter the format or experience of an interview, always send a thank you email, later the same day or by the next morning. Thank you emails do not need to be long and drawn out, a simple “I enjoyed our conversation and thanks for your time” will do.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3NTg3ODM0XX0=
--->
